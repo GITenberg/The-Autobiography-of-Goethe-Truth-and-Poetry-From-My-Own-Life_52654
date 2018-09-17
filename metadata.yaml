@@ -1,0 +1,47 @@
+_repo: The-Autobiography-of-Goethe-Truth-and-Poetry-From-My-Own-Life_52654
+_version: 0.0.1
+alternative_title: Aus meinem Leben. English
+contributor:
+  translators:
+  - agent_name: Morrison, A. J. W. (Alexander James William)
+    alias: Morrison, Alexander James William
+    birthdate: 1806
+    deathdate: 1865
+    gutenberg_agent_id: '36435'
+    url: http://www.gutenberg.org/2009/agents/36435
+  - agent_name: Oxenford, John
+    birthdate: 1812
+    deathdate: 1877
+    gutenberg_agent_id: '4723'
+    url: http://www.gutenberg.org/2009/agents/4723
+    wikipedia: http://en.wikipedia.org/wiki/John_Oxenford
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2016-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+- !lcsh 'Authors, German -- 18th century -- Biography'
+- !lcc 'PT'
+- !lcsh 'Authors, German -- 19th century -- Biography'
+- GITenberg
+title: 'The Autobiography of Goethe
+
+  Truth and Poetry: From My Own Life'
+url: http://www.gutenberg.org/ebooks/52654
