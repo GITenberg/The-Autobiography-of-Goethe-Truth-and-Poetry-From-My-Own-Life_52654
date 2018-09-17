@@ -1,5 +1,5 @@
 _repo: The-Autobiography-of-Goethe-Truth-and-Poetry-From-My-Own-Life_52654
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Aus meinem Leben. English
 contributor:
   translators:
@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '4723'
     url: http://www.gutenberg.org/2009/agents/4723
     wikipedia: http://en.wikipedia.org/wiki/John_Oxenford
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52654#The-Autobiography-of-Goethe-Truth-and-Poetry-From-My-Own-Life
 gutenberg_issued: '2016-07-26'
 gutenberg_type: Text
 identifiers:
